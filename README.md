@@ -1,4 +1,4 @@
-# skyloong gk61s
+# skyloong gk61x/gk61xs plate
 
 a gh60 mod with splite space
 
